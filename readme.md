@@ -1,5 +1,6 @@
 # Authentication Workspace
 
+
 This workspace contains a full-stack authentication project with:
 
 - `frontend/`: a React + Vite client
